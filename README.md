@@ -7,7 +7,9 @@ This project is a responsive portfolio website developed to showcase my skills, 
 Technologies Used
 
 HTML5 – for structure
+
 CSS3 – for styling and responsive design
+
 JavaScript – for interactivity
 
 Features
