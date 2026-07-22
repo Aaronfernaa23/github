@@ -29,4 +29,5 @@ Project card layout
 
 | PROJECTS |
 | --------------------------------------------------- | | | Project Card 1 | | | | - Image | | | | - Title | | | | - Description | | | | - [View Project] | | | --------------------------------------------------- | | --------------------------------------------------- | | | Project Card 2 | | | | - Image | | | | - Title | | | | - Description | | | | - [View Project] | | | --------------------------------------------------- | | ... more cards ... |
+
 Fast loading time, Accessibility compliance, Clean, modern design, Maintainable code
