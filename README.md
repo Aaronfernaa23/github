@@ -15,16 +15,23 @@ JavaScript – for interactivity
 Features
 
 Responsive design for mobile, tablet, and desktop
+
 Smooth scrolling navigation
+
 Interactive menu toggle
+
 Project showcase section
+
 Deployment
+
 The website can be run locally or deployed using GitHub Pages.
 
 Future Improvements
 
 Add backend functionality
+
 Improve accessibility
+
 Add more dynamic project content
 
 Project card layout
